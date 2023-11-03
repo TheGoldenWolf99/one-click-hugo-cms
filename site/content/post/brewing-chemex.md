@@ -1,17 +1,17 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: Hello I am just doing stuff
+date: 2023-11-03T16:02:25.177Z
+description: Don't mind me, I am just trying to figure things out. I wish I
+  could make it not bright mode like this, it's kind of painful to my eyes. But
+  I will figure it out in the morning.
+image: img/about-direct-sourcing.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Who is this man. [Why is his picture here](/wdwdw). The CMS that built this template website is really into coffee. I just want to figure out how to do cool stuff, but I don't really know what to add yet, and how much I need to change outside of the CMS by editing the git repo. But that means I need to learn markdown, and also like github and stuff.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+So I guess this is where I'll probably put my resume, and like post things to help me learn. It would make sense to practice doing write-ups for TryHackMe, to make me learn how that stuff works. And I can also add stuff for C/C++ programs I write.
 
+I will edit this more later, here is more coffee information, that I have not verified, so it could be just a bunch of lies.
 ## The little secrets of Chemex brewing
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
